@@ -7,7 +7,7 @@ The objective of this project was to transform raw transactional data into actio
 
 The project combines:
 - SQL for data extraction, cleaning, querying, and analysis
-- Power BI for dashboard creation and interactive data visualization
+- Power BI for dashboard creation and interactive data visualization 
 
 ---
 
