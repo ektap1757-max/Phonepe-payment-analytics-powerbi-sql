@@ -169,3 +169,10 @@ The dashboard enables stakeholders to monitor business performance and make data
 # Author
 Ekta Patel  
 SQL + Power BI Data Analytics Project
+
+# output 
+
+<img width="895" height="373" alt="Screenshot 2026-05-14 144103" src="https://github.com/user-attachments/assets/3d97758f-dd77-449a-842c-5306a26f25d1" />
+
+<img width="758" height="404" alt="image" src="https://github.com/user-attachments/assets/3b26880c-c1d1-41c2-b9eb-77f6f78c4309" />
+
